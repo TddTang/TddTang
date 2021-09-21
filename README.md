@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- ✨ Hi, I'm TddTang.  
+- 🔭 I graduated from NUIST, NanJing, China. AND I am going to SouthEast University to pursue master degree.
 <!--
 **TddTang/TddTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
