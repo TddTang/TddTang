@@ -1,6 +1,8 @@
 ### Hi there 👋
 - ✨ Hi, I'm TddTang.  
-- 🔭 I am now a graduate student at Southeast University.
+- 🔭 I'm now a graduate student at Southeast University.
+- 😄 I have a relatively rich algorithm experience, but the development ability is almost zero.
+- 📫 How to reach me: tdd_tang@foxmail.com
 <!--
 **TddTang/TddTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
