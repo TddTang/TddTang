@@ -2,7 +2,7 @@
 - ✨ Hi, I'm TddTang.  
 - 🔭 I'm now a graduate student at Southeast University.
 - 😄 I have a relatively rich algorithm experience, but the development ability is almost zero.
-- 📫 How to reach me: tdd_tang@foxmail.com
+- 📫 How to reach me: tdd_tang@foxmail.com or juntang@seu.edu.cn
 <!--
 **TddTang/TddTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
